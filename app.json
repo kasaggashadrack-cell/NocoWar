@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "NocoWar",
+    "slug": "nocowar",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.nocowar.app"
+    }
+  }
+}
